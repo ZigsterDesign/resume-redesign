@@ -1,2 +1,2 @@
 # resume-redesign
-redesign of resume web site
+redesign of resume web site using Bootstrap
